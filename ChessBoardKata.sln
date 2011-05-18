@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcceptanceTests", "AcceptanceTests\AcceptanceTests.csproj", "{AE3AD154-0440-497A-8EF7-345D6D9EDA82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Model", "ChessBoard.Model\Chess.Model.csproj", "{243192B0-CA62-4A3A-A642-84A363EFCB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Model.Tests", "ChessBoard.Model.Tests\Chess.Model.Tests.csproj", "{885B6357-2B03-40CC-9B02-ACE144D88CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE3AD154-0440-497A-8EF7-345D6D9EDA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3AD154-0440-497A-8EF7-345D6D9EDA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3AD154-0440-497A-8EF7-345D6D9EDA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3AD154-0440-497A-8EF7-345D6D9EDA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243192B0-CA62-4A3A-A642-84A363EFCB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243192B0-CA62-4A3A-A642-84A363EFCB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243192B0-CA62-4A3A-A642-84A363EFCB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243192B0-CA62-4A3A-A642-84A363EFCB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885B6357-2B03-40CC-9B02-ACE144D88CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885B6357-2B03-40CC-9B02-ACE144D88CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885B6357-2B03-40CC-9B02-ACE144D88CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885B6357-2B03-40CC-9B02-ACE144D88CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
